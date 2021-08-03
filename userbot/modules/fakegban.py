@@ -20,7 +20,7 @@ async def gbun(event):
     gbunVar = gbunVar[6:]
     mentions = f"`Warning!! User 𝙂𝘽𝘼𝙉𝙉𝙀𝘿 By` {DEFAULTUSER}\n"
     no_reason = "No Reason Given "
-    await event.edit("**Summoning out the mighty gban hammer ☠️**")
+    await event.edit("**𝙈𝙀𝙈𝙋𝙍𝙊𝙎𝙀𝙎 𝙂𝘽𝘼𝙉 𝙎𝙄 𝙏𝙊𝙇𝙊𝙇 𝙄𝙉𝙄**")
     asyncio.sleep(3.5)
     chat = await event.get_input_chat()
     async for x in bot.iter_participants(chat, filter=ChannelParticipantsAdmins):
