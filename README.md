@@ -19,7 +19,7 @@ Berbasis [Paperplane](https://github.com/RaphielGang) dan [ProjectBish](https://
 ## DEPLOY TO HEROKU ⚠️
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/EvanAnangga/Pan-Userbot/tree/Pan-UserBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
 
-<h3 align="center">Userbot Digunakan untuk Bersenang-senang di Telegram, dan untuk Menjaga Grup Anda.</h3>
+<h3 align="center">Userbot Digunakan untuk Bersenang-senang di Telegram, Dan untuk Menjaga GC Anda</h3>
 <p align="center">&nbsp;</p>
 
 
