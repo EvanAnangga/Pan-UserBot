@@ -6,7 +6,7 @@
 
 
 <p align="center">
-   <a href="https://github.com/EvanAnangga/Pan-UserBot"><img src="https://telegra.ph/file/47cdc3d607b1a4f55b830.png" alt="PAN PROJECT" width=400px></a>
+   <a href="https://github.com/EvanAnangga/Pan-UserBot"><img src="https://telegra.ph/file/916d96f4d46e211d77d76.jpg" alt="PAN PROJECT" width=400px></a>
    <br>
    <br>
 </p>
